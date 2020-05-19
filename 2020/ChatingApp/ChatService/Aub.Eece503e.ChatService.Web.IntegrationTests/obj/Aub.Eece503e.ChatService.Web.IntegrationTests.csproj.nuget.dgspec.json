@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj",
+        "projectName": "Aub.Eece503e.ChatService.Client",
+        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj",
+        "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
+        "projectName": "Aub.Eece503e.ChatService.Datacontracts",
+        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
+        "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj",
+        "projectName": "Aub.Eece503e.ChatService.Web.IntegrationTests",
+        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj",
+        "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj"
+              },
+              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
+              },
+              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj",
+        "projectName": "Aub.Eece503e.ChatService.Web",
+        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj",
+        "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "Microsoft.Azure.DocumentDB.Core": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
