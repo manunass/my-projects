@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.AboutUsController">
+    <children>
+        <Hyperlink fx:id="backHyp" layoutX="47.0" layoutY="357.0" onAction="#back" text="&lt; Back" />
+        <Label layoutX="41.0" layoutY="12.0" prefHeight="23.0" prefWidth="138.0" text="Hotel Description" textFill="#1387c2">
+            <font>
+                <Font name="Times New Roman Bold" size="18.0" />
+            </font>
+        </Label>
+        <Label layoutX="41.0" layoutY="41.0" text="Enjoy a memorable getaway at our hotel.">
+         <font>
+            <Font size="13.0" />
+         </font></Label>
+        <Label layoutX="41.0" layoutY="65.0" text="Famous for our magnificent pool and luxurious SPA, we promise you a very comfortable stay.">
+         <font>
+            <Font size="13.0" />
+         </font></Label>
+        <ImageView fitHeight="171.0" fitWidth="229.0" layoutX="347.0" layoutY="198.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@RoomImage.jpg" />
+            </image></ImageView>
+        <Label layoutX="41.0" layoutY="113.0" prefHeight="19.0" prefWidth="533.0" text="Our facility embraces 120 rooms: 60 regular rooms and 60 deluxe rooms. You also have the">
+         <font>
+            <Font size="13.0" />
+         </font></Label>
+        <Label layoutX="41.0" layoutY="191.0" text="Hotel Policies" textFill="#1387c2">
+            <font>
+                <Font name="Times New Roman Bold" size="18.0" />
+            </font>
+        </Label>
+        <Label layoutX="40.0" layoutY="89.0" prefHeight="19.0" prefWidth="453.0" text="Our hotel includes a variety of rooms to accommodate for family and friends.">
+         <font>
+            <Font size="13.0" />
+         </font></Label>
+        <Label layoutX="41.0" layoutY="332.0" text="Loud sounds are prohibited after 11PM." />
+        <Label layoutX="41.0" layoutY="218.0" text="Room prices range between $50 and $140." />
+        <Label layoutX="361.0" layoutY="359.0" text="An overview of our prestigious rooms" />
+        <Label layoutX="41.0" layoutY="288.0" text="Free cancellation of an Unconfirmed reservation." />
+      <Label layoutX="41.0" layoutY="135.0" prefHeight="19.0" prefWidth="533.0" text="choice of your convenient bed type: Single, Double or Family (1 Double + 1 Single).">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="41.0" layoutY="240.0" text="Our luxurious SPA is exclusive for Deluxe reservations." />
+      <Label layoutX="41.0" layoutY="262.0" />
+      <Label layoutX="41.0" layoutY="264.0" text="Reserving in less than 4 days can't be Unconfirmed." />
+      <Label layoutX="41.0" layoutY="310.0" text="Cancelling a Confirmed reservation adds a $30 penalty." />
+      <Label layoutX="41.0" layoutY="159.0" prefHeight="19.0" prefWidth="533.0" text="A Deluxe room is more spacious and exclusively features desks for work or study.">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

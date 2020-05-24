@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="cancelLink" prefHeight="393.0" prefWidth="556.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.NewReservationController">
+    <children>
+        <Label layoutX="152.0" layoutY="65.0" text="Arrival" />
+        <Label layoutX="272.0" layoutY="112.0" />
+        <Label layoutX="355.0" layoutY="65.0" text="Departure" />
+        <DatePicker fx:id="arrival" layoutX="151.0" layoutY="80.0" />
+        <DatePicker fx:id="departure" layoutX="355.0" layoutY="80.0" />
+        <CheckBox fx:id="smoking" contentDisplay="BOTTOM" layoutX="153.0" layoutY="259.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="96.0" text="Smoking" />
+        <Label layoutX="31.0" layoutY="85.0" text="Reservation Date" textFill="#1387c2">
+            <font>
+                <Font name="Times New Roman Bold" size="14.0" />
+            </font>
+        </Label>
+        <Label layoutX="31.0" layoutY="129.0" text="Number of Rooms" textFill="#1387c2">
+            <font>
+                <Font name="Times New Roman Bold" size="14.0" />
+            </font>
+        </Label>
+        <Accordion layoutX="137.0" layoutY="291.0" />
+        <Button fx:id="confirmReservation" layoutX="165.0" layoutY="299.0" mnemonicParsing="false" onAction="#confirm" text="Reserve" />
+        <Label layoutX="152.0" layoutY="162.0" text="Specifications" textFill="#1387c2">
+            <font>
+                <Font name="Times New Roman Bold" size="14.0" />
+            </font>
+        </Label>
+        <ChoiceBox fx:id="numberOfRooms" layoutX="151.0" layoutY="124.0" prefWidth="150.0" />
+        <Label layoutX="166.0" layoutY="227.0" text="Bed Types" />
+        <ChoiceBox fx:id="bedTypes" layoutX="250.0" layoutY="223.0" prefWidth="150.0" />
+        <Label layoutX="31.0" layoutY="24.0" prefHeight="28.0" prefWidth="181.0" text="New Reservation" textFill="#1387c2">
+            <font>
+                <Font name="Times New Roman Bold" size="24.0" />
+            </font>
+        </Label>
+        <Hyperlink fx:id="cancelHyperlink" layoutX="429.0" layoutY="343.0" onAction="#cancel" text="Back to Main Menu" />
+        <Button fx:id="showRoomsButton" layoutX="129.0" layoutY="342.0" mnemonicParsing="false" onAction="#listRooms" text="Show available rooms" />
+      <Label layoutX="162.0" layoutY="188.0" text="Room Types" />
+      <ChoiceBox fx:id="roomTypes" layoutX="250.0" layoutY="185.0" prefWidth="150.0" />
+      <Label fx:id="message" alignment="CENTER" contentDisplay="CENTER" layoutX="255.0" layoutY="303.0" prefHeight="17.0" prefWidth="289.0" text="Label" textAlignment="CENTER" />
+    </children>
+</AnchorPane>

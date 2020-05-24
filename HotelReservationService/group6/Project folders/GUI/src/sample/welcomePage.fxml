@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.BoxBlur?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="420.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.WelcomePageController">
+    <children>
+        <Hyperlink fx:id="aboutUsHyp" layoutX="507.0" layoutY="338.0" onAction="#goToAbout" text="About Us" />
+        <Text fill="#1387c2" layoutX="106.0" layoutY="105.0" stroke="#131414" strokeType="OUTSIDE" strokeWidth="0.0" text="A perfect vacation starts with a perfect hotel" wrappingWidth="279.2060546875">
+            <font>
+                <Font size="14.0" />
+            </font></Text>
+        <Text layoutX="461.0" layoutY="173.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Our journey starts here" textAlignment="CENTER" wrappingWidth="150.2060546875" />
+        <ImageView fitHeight="270.0" fitWidth="396.0" layoutX="45.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@HotelWelcomePageImage.jpg" />
+            </image>
+        </ImageView>
+        <Label alignment="CENTER" layoutX="455.0" layoutY="126.0" prefHeight="20.0" prefWidth="163.0" text="Book a room now!" textAlignment="CENTER" textFill="#1387c2">
+            <font>
+                <Font name="Times New Roman Bold Italic" size="18.0" />
+            </font>
+        </Label>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="35.0" layoutX="468.0" layoutY="193.0" opacity="0.25" stroke="BLACK" strokeType="INSIDE" width="136.0">
+         <effect>
+            <BoxBlur />
+         </effect>
+         <fill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#2678c6" />
+                  <Stop color="#37ff1f" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Rectangle>
+      <Label alignment="CENTER" layoutX="61.0" layoutY="31.0" prefHeight="29.0" prefWidth="365.0" text="Welcome Dear Guest" textFill="#1387c2">
+         <font>
+            <Font name="Times New Roman Bold" size="26.0" />
+         </font>
+      </Label>
+        <Hyperlink fx:id="loginHyp" alignment="CENTER" layoutX="490.0" layoutY="198.0" onAction="#goToLogin" prefHeight="25.0" prefWidth="98.0" text="Login / Signup" />
+      <Hyperlink layoutX="523.0" layoutY="367.0" onAction="#exit" text="Exit" />
+    </children>
+</Pane>

@@ -1,0 +1,44 @@
+* {
+
+	-color : #00008b;
+
+	-white : #efefef;
+
+	-light : #6495ed;
+
+	-darkGray : derive(-gray,-20%);
+
+	-black : #000000;
+
+	-abort : #e74c3c;
+
+}
+
+
+
+.root{
+
+	-fx-background-color : -white;
+
+	-fx-fill-width : true;
+
+
+	-fx-fill-height : true;
+
+
+}
+
+
+ .slider>*.track{
+
+	 -fx-background-color : -light;
+
+ }
+
+
+
+.slider>*.thumb{
+
+	-fx-background-color : -color;
+
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.InvoiceController">
+   <children>
+      <TableView fx:id="tableid" layoutX="49.0" layoutY="109.0" prefHeight="200.0" prefWidth="502.0">
+        <columns>
+          <TableColumn fx:id="itemcolumn" prefWidth="236.0" text="Item" />
+          <TableColumn fx:id="qtycolumn" prefWidth="57.0" text="Qty" />
+            <TableColumn fx:id="unitpcolumn" prefWidth="94.0" text="Unit Price" />
+            <TableColumn fx:id="amountcolumn" prefWidth="107.0" text="Amount" />
+        </columns>
+      </TableView>
+      <Label layoutX="437.0" layoutY="324.0" text="Total Due:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="totalid" layoutX="506.0" layoutY="324.0" text="0 $" />
+      <Label fx:id="invoicetext" layoutX="49.0" layoutY="39.0" prefHeight="28.0" prefWidth="389.0" text="Invoice for Mr. XY" textFill="#1387c2">
+         <font>
+            <Font name="Times New Roman Bold" size="20.0" />
+         </font>
+      </Label>
+      <Hyperlink layoutX="441.0" layoutY="42.0" onAction="#backToMain" text="Back to Main Menu" />
+   </children>
+</AnchorPane>

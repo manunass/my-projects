@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="279.0" prefWidth="432.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.RoomListingController">
+   <children>
+      <TableView fx:id="tableid" editable="true" layoutX="31.0" layoutY="36.0" prefHeight="200.0" prefWidth="378.0">
+        <columns>
+          <TableColumn fx:id="roomcolumn" text="Room Type" />
+          <TableColumn fx:id="bedcolumn" prefWidth="81.0" text="Bed Type" />
+            <TableColumn fx:id="numbercolumn" prefWidth="120.0" text="Number Available" />
+            <TableColumn fx:id="pricecolumn" prefWidth="93.0" text="Price Per Night" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>
