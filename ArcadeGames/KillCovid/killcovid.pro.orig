@@ -1,0 +1,21 @@
+QT += widgets
+
+SOURCES += \
+    login.cpp \
+    main.cpp \
+    mainmenu.cpp \
+    signupform.cpp \
+    user.cpp
+
+HEADERS += \
+<<<<<<< HEAD
+    login.h \
+    mainmenu.h \
+    signupform.h \
+    user.h
+=======
+    signupform.h
+
+DISTFILES += \
+    users.txt
+>>>>>>> 0be265d823dcb731f04a45d8050a2fcb213c4248

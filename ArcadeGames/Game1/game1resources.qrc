@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/image001.png</file>
+        <file>Images/black_virus.png</file>
+        <file>Images/white_virus.png</file>
+        <file>Images/red_virus.png</file>
+        <file>Images/doctor.png</file>
+        <file>Images/needle.png</file>
+        <file>Images/background.png</file>
+    </qresource>
+</RCC>

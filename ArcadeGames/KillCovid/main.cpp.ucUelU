@@ -1,0 +1,12 @@
+#include <QApplication>
+#include <QPushButton>
+#include <signupform.h>
+#include <loginscreen.h>
+
+int main(int argc, char **argv)
+{
+    QApplication app (argc, argv);
+    SignupForm signup;
+    signup.show();
+    return app.exec();
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj": {}
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj": {}
   },
   "projects": {
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj": {
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj",
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj",
         "projectName": "Aub.Eece503e.ChatService.Client",
-        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj",
+        "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj",
         "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
-        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/obj/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
-                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
+              "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
         "projectName": "Aub.Eece503e.ChatService.Datacontracts",
-        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
+        "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
         "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
-        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/obj/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
@@ -118,14 +118,14 @@
         }
       }
     },
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj",
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj",
         "projectName": "Aub.Eece503e.ChatService.Web.IntegrationTests",
-        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj",
+        "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj",
         "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
-        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/obj/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
@@ -139,14 +139,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj": {
-                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj"
+              "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Client/Aub.Eece503e.ChatService.Client.csproj"
               },
-              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
-                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
+              "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
               },
-              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj": {
-                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj"
+              "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj"
               }
             }
           }
@@ -200,14 +200,14 @@
         }
       }
     },
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj": {
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj",
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj",
         "projectName": "Aub.Eece503e.ChatService.Web",
-        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj",
+        "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web/Aub.Eece503e.ChatService.Web.csproj",
         "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
-        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web/obj/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
@@ -221,8 +221,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
-                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
+              "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj"
               }
             }
           }
@@ -271,14 +271,14 @@
         }
       }
     },
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj": {
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
         "projectName": "Aub.Eeece503e.ChatService.Web.DeploymentTests",
-        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
+        "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
         "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
-        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/obj/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
@@ -292,8 +292,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {
-                "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj"
+              "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {
+                "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj"
               }
             }
           }

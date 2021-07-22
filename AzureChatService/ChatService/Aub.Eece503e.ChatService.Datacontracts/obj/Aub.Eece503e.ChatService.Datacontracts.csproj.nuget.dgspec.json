@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {}
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {}
   },
   "projects": {
-    "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
+    "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
+        "projectUniqueName": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
         "projectName": "Aub.Eece503e.ChatService.Datacontracts",
-        "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
+        "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/Aub.Eece503e.ChatService.Datacontracts.csproj",
         "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
-        "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/obj/",
+        "outputPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"

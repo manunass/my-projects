@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613025211748",
+    "project_id": "greencoin-412e6",
+    "storage_bucket": "greencoin-412e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613025211748:android:6f388bcb733bd62ec44671",
+        "android_client_info": {
+          "package_name": "green.coin.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613025211748-48ge8v7i2kjmp6ahoibec9k054q776io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvFbdcFhqrM-auRNpocv-SvvSquLbfEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613025211748-48ge8v7i2kjmp6ahoibec9k054q776io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

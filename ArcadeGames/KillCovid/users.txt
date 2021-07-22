@@ -1,0 +1,5 @@
+username first last dob gender high1 high2 password
+manu manu nass 2020-10-16 male 150 40 Entakamen123
+a a b 2020-10-03 male na 30 Abcd1234
+ab dc vsd 2020-10-03 male na na Abcd1234
+ac cz xz 2020-10-03 male 75 na khghdgvsdA4

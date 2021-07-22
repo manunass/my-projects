@@ -10266,11 +10266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
+      "projectUniqueName": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
       "projectName": "Aub.Eeece503e.ChatService.Web.DeploymentTests",
-      "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
+      "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/Aub.Eeece503e.ChatService.Web.DeploymentTests.csproj",
       "packagesPath": "/Users/emmanuelnassour/.nuget/packages/",
-      "outputPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/obj/",
+      "outputPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eeece503e.ChatService.Web.DeploymentTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emmanuelnassour/.config/NuGet/NuGet.Config"
@@ -10284,8 +10284,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {
-              "projectPath": "/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj"
+            "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj": {
+              "projectPath": "/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Web.IntegrationTests/Aub.Eece503e.ChatService.Web.IntegrationTests.csproj"
             }
           }
         }

@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{77DC3392-5236-4708-9D19-3A7C9A58E8D1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Aub.Eece503e.ChatService.Web/Services/ConversationService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aub.Eece503e.ChatService.Web.Tests/ConversationControllerTest.cs">
     <Files>
       <File FileName="Aub.Eece503e.ChatService.Client/ChatServiceClient.cs" Line="1" Column="1" />
-      <File FileName="Aub.Eece503e.ChatService.Client/IChatServiceClient.cs" Line="21" Column="1" />
-      <File FileName="Aub.Eece503e.ChatService.Web/Controllers/ConversationController.cs" Line="19" Column="10" />
-      <File FileName="Aub.Eece503e.ChatService.Web/Services/IConversationService.cs" Line="1" Column="1" />
+      <File FileName="Aub.Eece503e.ChatService.Client/IChatServiceClient.cs" />
+      <File FileName="Aub.Eece503e.ChatService.Web/Controllers/ConversationController.cs" />
+      <File FileName="Aub.Eece503e.ChatService.Web/Services/IConversationService.cs" />
       <File FileName="Aub.Eece503e.ChatService.Web/Services/ConversationService.cs" Line="89" Column="1" />
-      <File FileName="Aub.Eece503e.ChatService.Datacontracts/AddConversationResponse.cs" Line="7" Column="1" />
-      <File FileName="Aub.Eece503e.ChatService.Datacontracts/GetConversationsResult.cs" Line="13" Column="1" />
+      <File FileName="Aub.Eece503e.ChatService.Datacontracts/AddConversationResponse.cs" />
+      <File FileName="Aub.Eece503e.ChatService.Datacontracts/GetConversationsResult.cs" />
+      <File FileName="Aub.Eece503e.ChatService.Web/Controllers/ProfileController.cs" Line="1" Column="1" />
+      <File FileName="Aub.Eece503e.ChatService.Web.Tests/ConversationControllerTest.cs" Line="98" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,16 +19,13 @@
             <Node name="Aub.Eece503e.ChatService.Datacontracts" expanded="True" />
             <Node name="Aub.Eece503e.ChatService.Web" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="ConversationService.cs" selected="True" />
-              </Node>
-              <Node name="Store" expanded="True">
-                <Node name="Azure" expanded="True" />
-                <Node name="DocumentDb" expanded="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
             </Node>
             <Node name="Aub.Eece503e.ChatService.Web.IntegrationTests" expanded="True" />
+            <Node name="Aub.Eece503e.ChatService.Web.Tests" expanded="True" />
+            <Node name="Aub.Eeece503e.ChatService.Web.DeploymentTests" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -37,7 +36,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/emmanuelnassour/Desktop/repos/ChatService azure/ChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/AddConversationRequestBody.cs" relfile="Aub.Eece503e.ChatService.Datacontracts/AddConversationRequestBody.cs" line="14" column="1" />
+      <Breakpoint file="/Users/emmanuelnassour/Desktop/uni/extras/project repos/my-projects/AzureChatService/ChatService/Aub.Eece503e.ChatService.Datacontracts/AddConversationRequestBody.cs" relfile="Aub.Eece503e.ChatService.Datacontracts/AddConversationRequestBody.cs" line="14" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
